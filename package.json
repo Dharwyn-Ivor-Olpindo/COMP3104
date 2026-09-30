@@ -1,0 +1,21 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "description": "- Dharwyn Ivor Olpindo\r - George Brown Polytechnic\r - ID: 101468069",
+  "main": "index.js",
+ "scripts": {
+  "test": "echo \"Warning: No tests created yet.\""
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dharwyn-Ivor-Olpindo/COMP3104.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Dharwyn-Ivor-Olpindo/COMP3104/issues"
+  },
+  "homepage": "https://github.com/Dharwyn-Ivor-Olpindo/COMP3104#readme"
+}
